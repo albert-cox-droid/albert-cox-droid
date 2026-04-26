@@ -1,16 +1,19 @@
-## Hi there 👋
+# G'day mate 🦘
 
-<!--
-**albert-cox-droid/albert-cox-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **albert-cox-droid**, a open-source contributor.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Lifelong learner
+- ⚡ Fun fact: I write code while drinking coffee
+- 🎨 Code is poetry
+- 🌟 Open source enthusiast
+- 📫 Reach me through GitHub
+
+## Tech
+
+`Astro` `Terraform` `GraphQL` `Spring`
+
+---
+
+_Merge commits make me sad._
